@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Barber appointment project**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c++, Python**
 
-- 💬 Ask me about **java,sql,html,git**
+- 💬 Ask me about **java, sql, html ,git ,Selenium ,SDLC, Testing, Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
